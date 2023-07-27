@@ -9,10 +9,8 @@ When exiting the SQL Explorer program, type **quit** to close the SQL connection
 
 ### Connection Fields
 
-**Server** - The SQL server to connect to.
-**Port** - The port number to connect to the SQL server on.
-**Username** - The SQL server username to login as.
-**Password** - Password to login to the SQL server as the selected user.
-**Database** - The database in the selected SQL server to use when the SQL console completes initialization.
-			   This is equivalent to using the SQL command "USE DATABASE_NAME;" as the first command upon logging in to SQL Server.
-			   If this field is left empty, then no database will be used when the SQL console completes initialization.
+**Server** - The SQL server to connect to. <br />
+**Port** - The port number to connect to the SQL server on. <br />
+**Username** - The SQL server username to login as. <br />
+**Password** - Password to login to the SQL server as the selected user. <br />
+**Database** - The database in the selected SQL server to use when the SQL console completes initialization. This is equivalent to using the SQL command "USE DATABASE_NAME;" as the first command upon logging in to SQL Server. If this field is left empty, then no database will be used when the SQL console completes initialization.
